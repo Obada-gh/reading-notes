@@ -1,4 +1,4 @@
-# Code 201 Reading Notes
+# Code 301 Reading Notes
 hallo there i will sumorize for you some concepts that i learned from html-css book and JS book and How to Write a Git Commit Message from additional resources.
 >in the end there is a quiz for you and a map for our info. &#128175;
 
