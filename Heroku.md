@@ -24,8 +24,7 @@ unordered, and definition.
 
 ## Heroku:
 Heroku is a cloud platform as a service supporting several programming languages. One of the first cloud platforms, Heroku has been in development since June 2007, when it supported only the Ruby programming language, but now supports Java, Node.js, Scala, Clojure, Python, PHP, and Go.
-its long setup you need to flow this steps: (heroku-training)[https://devcenter.heroku.com/articles/getting-started-with-nodejs]
-
+its long setup you need to flow this steps: [heroku-training](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 ## Node.js For Beginners. Deploy Your Blog to Heroku:
 Error pages are not what typically appear on your screen when you're surfing the web, but when it happens it's so annoying! To see how servers work from within, we will build a simple web server by ourselves. We will use Node.js as a server part technology for that task. Then we'll use Heroku cloud application platform to turn this local server into a world wide server.
 [example](https://howtonode.org/deploy-blog-to-heroku)
