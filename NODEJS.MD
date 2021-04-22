@@ -27,7 +27,7 @@ So you’ve heard of Node.js, but aren’t quite sure what it is or where it fit
 
 If that sounds like you, then keep reading. In this article, I’ll take a beginner-friendly, high-level look at Node.js and its main paradigms. I’ll examine Node’s main use cases, as well as the current state of the Node landscape, and offer you a wide range of jumping off points (for further reading) along the way.
 Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
-[w3schools](https://www.w3schools.com/nodejs/nodejs_intro.asp);
+[w3schools toutorial](https://www.w3schools.com/nodejs/nodejs_intro.asp);
 ## Node.js For Beginners. Deploy Your Blog to Heroku:
 Error pages are not what typically appear on your screen when you're surfing the web, but when it happens it's so annoying! To see how servers work from within, we will build a simple web server by ourselves. We will use Node.js as a server part technology for that task. Then we'll use Heroku cloud application platform to turn this local server into a world wide server.
 [example](https://howtonode.org/deploy-blog-to-heroku)
