@@ -180,6 +180,18 @@ Brother: But we are done with all that?
 ME: We are done. Now, we just tell an API what we want our data to look like, at each endpoint, and it takes care of all of the communication pieces for us. It's a huge boost for productivity!
 [example](https://howtonode.org/deploy-blog-to-heroku)
 
+## SuperAgent :
+SuperAgent is light-weight progressive ajax API crafted for flexibility, readability, and a low learning curve after being frustrated with many of the existing request APIs. It also works with Node.js!
+```
+ request
+   .post('/api/pet')
+   .send({ name: 'Manny', species: 'cat' })
+   .set('X-API-Key', 'foobar')
+   .set('Accept', 'application/json')
+   .then(res => {
+      alert('yay got ' + JSON.stringify(res.body));
+   });
+```
 ## Cheats sheet
 
 Markdown is a way to style text on the web. You control the display of the document; formaing words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.you just need to make a file with .md extension on Vs code and good to go with this cheats sheet:
