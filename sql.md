@@ -18,41 +18,25 @@ unordered, and definition.
 * Definition lists are used to define terminology.
 * Lists can be nested inside one another.
 
-## api :
-(API) is an interface that defines interactions between multiple software applications or mixed hardware-software intermediaries.[1] It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc. It can also provide extension mechanisms so that users can extend existing functionality in various ways and to varying degrees.[2] An API can be entirely custom, specific to a component, or designed based on an industry-standard to ensure interoperability. Through information hiding, APIs enable modular programming, allowing users to use the interface independently of the implementation.
+## sql :
+SQL is a standard language for storing, manipulating and retrieving data in databases.
 
-Reference to Web APIs is currently the most common use of the term.[3] There are also APIs for programming languages, software libraries, computer operating systems, and computer hardware. APIs originated in the 1940s, though the term API did not emerge until the 1960s and 70s.
+Our SQL tutorial will teach you how to use SQL in: MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, and other database systems.
 
+(toutorial)[https://www.w3schools.com/sql/default.asp]
 
-![ex](https://www6.0zz0.com/2021/04/26/16/892141160.png);
-
-## What Google Learned From Its Quest to Build the Perfect Team:
-The company’s top executives long believed that building the best teams meant combining the best people. They embraced other bits of conventional wisdom as well, like ‘‘It’s better to put introverts together,’’ said Abeer Dubey, a manager in Google’s People Analytics division, or ‘‘Teams are more effective when everyone is friends away from work.’’ But, Dubey went on, ‘‘it turned out no one had really studied which of those were true.’’
+its like a table:
 
 
+![ex](https://www5.0zz0.com/2021/04/26/16/428790202.png);
 
-![ex](https://www13.0zz0.com/2021/03/17/07/462752008.png);
+SQL (/ˌɛsˌkjuːˈɛl/ (About this soundlisten) S-Q-L,[4] /ˈsiːkwəl/ "sequel"; Structured Query Language)[5] is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables.
+
+SQL offers two main advantages over older read–write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.
+
+## sql keywords [keywords](https://www.w3schools.com/sql/sql_ref_keywords.asp)
 
 
-## How I explained REST to my brother:
-
-Each of the systems would get information from each other using a simple HTTP GET. If one system needs to add something to another system, it would use an HTTP POST. If a system wants to update something in another system, it uses an HTTP PUT. The only thing left to figure out is what the data should look like.
-
-
-[example](https://howtonode.org/deploy-blog-to-heroku)
-
-## SuperAgent :
-SuperAgent is light-weight progressive ajax API crafted for flexibility, readability, and a low learning curve after being frustrated with many of the existing request APIs. It also works with Node.js!
-```
- request
-   .post('/api/pet')
-   .send({ name: 'Manny', species: 'cat' })
-   .set('X-API-Key', 'foobar')
-   .set('Accept', 'application/json')
-   .then(res => {
-      alert('yay got ' + JSON.stringify(res.body));
-   });
-```
 ## Cheats sheet
 
 Markdown is a way to style text on the web. You control the display of the document; formaing words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.you just need to make a file with .md extension on Vs code and good to go with this cheats sheet:
