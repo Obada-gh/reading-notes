@@ -1,5 +1,5 @@
 # EJS:
-what i enderstand its a steps:
+what i understand its a steps:
 ## Basic setup
 
 First, install EJS:
