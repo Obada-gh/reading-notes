@@ -1,58 +1,46 @@
 # Reading Notes
 reading notes for code-fellows journey
 ## Code 102 - Intro to Software Development
+
+Code102| [Code102](https://github.com/Obada-gh/Code102-reading-notes)
+
 ## Code 201 - Foundations of Software Development
+
+Code201 | [Code201](https://github.com/Obada-gh/reading-notes-201)
+
 ## Code 301 - Intermediate Software Development
+
+concepts | link
+------------ | -------------
+ api |[api](https://obada-gh.github.io/reading-notes/301/api)
+ database| [database](https://obada-gh.github.io/reading-notes/301/database)
+ debug |[debug](https://obada-gh.github.io/reading-notes/301/debug)
+ EJSPartials| [EJSPartials](https://obada-gh.github.io/reading-notes/301/EJSPartials)
+ FLEXBOX| [FLEXBOX](https://obada-gh.github.io/reading-notes/301/FLEXBOX)
+ grid| [grid](https://obada-gh.github.io/reading-notes/301/grid)
+ Heroku| [Heroku](https://obada-gh.github.io/reading-notes/301/Heroku)
+ lastread| [lastread](https://obada-gh.github.io/reading-notes/301/lastread)
+ NODEJS| [NODEJS](https://obada-gh.github.io/reading-notes/301/NODEJS)
+ PAIRPROGRAMMING| [PAIRPROGRAMMING](https://obada-gh.github.io/reading-notes/301/PAIRPROGRAMMING)
+ refactor| [refactor](https://obada-gh.github.io/reading-notes/301/refactor)
+ RESPONSIVEWEB| [RESPONSIVEWEB](https://obada-gh.github.io/reading-notes/301/RESPONSIVEWEB)
+ SendingFormData| [SendingFormData](https://obada-gh.github.io/reading-notes/301/SendingFormData)
+ sql| [sql](https://obada-gh.github.io/reading-notes/301/sql)
+
+ 
+
 ## Code 401 - Advanced Software Development
+
+concepts | link
+------------ | -------------
+ pyintro |[pyintro](https://github.com/Obada-gh/reading-notes/tree/main/401/pyintro)
+
 
 # Code 401 Reading Notes
 hallo there i will sumorize for you some concepts that i learned from html-css book and JS book also How to Write a Git Commit Message from additional resources.
 >in the end there is a quiz for you and a map for our info. &#128175;
 
 
-
-## How the Web Works (visualization)
-When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
-
-![visualization](https://www5.0zz0.com/2021/02/27/19/968715239.png)
-
-## Structure : its the page how its looks these are main pionts you need to understand :
-* There are three types of HTML lists: ordered,
-unordered, and definition.
-* Ordered lists use numbers.
-* Unordered lists use bullets.
-* Definition lists are used to define terminology.
-* Lists can be nested inside one another.
-
-
-## this map for our info :
-
-
-![map](https://www11.0zz0.com/2021/02/28/00/374479467.png)
-
-## this a quiz for you :
-
-write a five horizontal stars with the for loop in javascript !!
-
-
-
->Remember : 
- * FOUCS
- * no pain no gain
- * work hard
-
-### find more :
-
-concepts | link
------------- | -------------
- HTML Chapter 1: “Structure” | [Structure](https://obada-gh.github.io/reading-notes/Structure)
- HTML Chapter 8: “Extra Markup”| [ExtraMarkup](https://obada-gh.github.io/reading-notes/ExtraMarkup)
-HTML Chapter 17: “HTML5 Layout” | [Layout](https://obada-gh.github.io/reading-notes/Layout)
- HTML Chapter 18: “Process & Design” | [Process & Design](https://obada-gh.github.io/reading-notes/Process&Design)
- JS Chapter 1: “The ABC of Programming” | [The ABC of Programming](https://obada-gh.github.io/reading-notes/TheABCofProgramming)
- Cheats sheet | [Cheats sheet](https://obada-gh.github.io/reading-notes/cheats)
-
-link for the github file : [gitfile](https://github.com/Obada-gh/reading-notes/blob/main/class-02.md)
 
 
 
