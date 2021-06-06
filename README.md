@@ -34,6 +34,7 @@ concepts | link
 concepts | link
 ------------ | -------------
  pyintro |[pyintro](https://obada-gh.github.io/reading-notes/401/pyintro)
+ Recursion |[Recursion](https://obada-gh.github.io/reading-notes/401/Recursion)
 
 
 # Code 401 Reading Notes
