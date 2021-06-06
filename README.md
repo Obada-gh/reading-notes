@@ -33,7 +33,7 @@ concepts | link
 
 concepts | link
 ------------ | -------------
- pyintro |[pyintro](https://github.com/Obada-gh/reading-notes/tree/main/401/pyintro)
+ pyintro |[pyintro](https://obada-gh.github.io/reading-notes/401/pyintro)
 
 
 # Code 401 Reading Notes
