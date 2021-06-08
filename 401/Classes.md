@@ -46,6 +46,9 @@ print(p1.age)
 ## Thinking Recursively in Python:
 Along the way on your programming journey, there are a few milestones that you need to conquer to advance ahead. For example, getting comfortable with classes, understanding pointers, master the art of functionalizing your code, and so on. One of the trickest programming concepts to learn for newcomers and master for those who have been programming for a while is recursion.
 
+### Naive Recursion is Naive
+Thus, we avoid recomputation by explicitly checking for the value before trying to compute it.
+
 Steps to train your mind to think recursively:
 1. Use the iterable-approach first.
 2. Extract the parameters of your function.
