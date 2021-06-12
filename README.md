@@ -38,6 +38,7 @@ concepts | link
  Recursion |[files](https://obada-gh.github.io/reading-notes/401/files/)
  Classes |[Classes](https://obada-gh.github.io/reading-notes/401/Classes)
  linked |[linked](https://obada-gh.github.io/reading-notes/401/linked)
+ risk |[risk](https://obada-gh.github.io/reading-notes/401/risk)
 
 
 
