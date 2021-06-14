@@ -40,6 +40,7 @@ concepts | link
  linked |[linked](https://obada-gh.github.io/reading-notes/401/linked)
  risk |[risk](https://obada-gh.github.io/reading-notes/401/risk)
  scope |[scope](https://obada-gh.github.io/reading-notes/401/scope)
+ list |[list](https://obada-gh.github.io/reading-notes/401/list)
 
 
 
