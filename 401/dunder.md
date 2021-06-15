@@ -111,20 +111,20 @@ Two classes of such a distribution are discrete and continuous. The former repre
 a. Normal Distribution in Python: 
 Python normal distribution is a function that distributes random variables in a graph that is shaped as a symmetrical bell. It does so by arranging the probability distribution for each value. Let’s use Python numpy for this.
 
-![nv](https://www3.0zz0.com/2021/06/15/19/638538289.png)
-![nv](https://www3.0zz0.com/2021/06/15/19/514566727.png)
+![1](https://www3.0zz0.com/2021/06/15/19/638538289.png)
+![2](https://www3.0zz0.com/2021/06/15/19/514566727.png)
 
 
 b. Binomial Distribution in Python:
 Python binomial distribution tells us the probability of how often there will be a success in n independent experiments. Such experiments are yes-no questions. One example may be tossing a coin.
 c. Poisson Distribution in Python:
 Python Poisson distribution tells us about how probable it is that a certain number of events happen in a fixed interval of time or space. This assumes that these events happen at a constant rate and also independent of the last event.
-![nv](https://www3.0zz0.com/2021/06/15/19/542853841.png)
-![nv](https://www11.0zz0.com/2021/06/15/19/811655836.png)
+![3](https://www3.0zz0.com/2021/06/15/19/542853841.png)
+![4](https://www11.0zz0.com/2021/06/15/19/811655836.png)
 
 d. Bernoulli Distribution in Python
 Python  Bernoulli Distribution is a case of binomial distribution where we conduct a single experiment. This is a discrete probability distribution with probability p for value 1 and probability q=1-p for value 0. p can be for success, yes, true, or one. Similarly, q=1-p can be for failure, no, false, or zero.
-![nv](https://www11.0zz0.com/2021/06/15/19/174786147.png)
+![5](https://www11.0zz0.com/2021/06/15/19/174786147.png)
 
 
 #### 4. Conclusion:
