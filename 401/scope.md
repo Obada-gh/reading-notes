@@ -1,7 +1,6 @@
 
-# Python Scope:
-
-The concept of scope rules how variables and names are looked up in your code. It determines the visibility of a variable within the code. The scope of a name or variable depends on the place in your code where you create that variable. The Python scope concept is generally presented using a rule known as the LEGB rule.
+# Dunder Methods:
+In Python, special methods are a set of predefined methods you can use to enrich your classes. They are easy to recognize because they start and end with double underscores, for example `__init__ `or` __str__`.
 
 A variable is only available from inside the region it is created. This is called scope.
 

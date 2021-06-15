@@ -41,6 +41,7 @@ concepts | link
  risk |[risk](https://obada-gh.github.io/reading-notes/401/risk)
  scope |[scope](https://obada-gh.github.io/reading-notes/401/scope)
  list |[list](https://obada-gh.github.io/reading-notes/401/list)
+ dunder |[dunder](https://obada-gh.github.io/reading-notes/401/dunder)
 
 
 
