@@ -42,7 +42,7 @@ concepts | link
  scope |[scope](https://obada-gh.github.io/reading-notes/401/scope)
  list |[list](https://obada-gh.github.io/reading-notes/401/list)
  dunder |[dunder](https://obada-gh.github.io/reading-notes/401/dunder)
- dunder |[dunder](https://obada-gh.github.io/reading-notes/401/stack)
+ stacks and queues |[stacks and queues](https://obada-gh.github.io/reading-notes/401/stack)
 
 
 
