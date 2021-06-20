@@ -43,7 +43,8 @@ concepts | link
  list |[list](https://obada-gh.github.io/reading-notes/401/list)
  dunder |[dunder](https://obada-gh.github.io/reading-notes/401/dunder)
  stacks and queues |[stacks and queues](https://obada-gh.github.io/reading-notes/401/stack)
- stacks and queues |[numPy](https://obada-gh.github.io/reading-notes/401/numpy)
+ numPy |[numPy](https://obada-gh.github.io/reading-notes/401/numpy)
+  pandas |[pandas](https://obada-gh.github.io/reading-notes/401/pandas)
 
 
 
