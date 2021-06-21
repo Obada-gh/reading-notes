@@ -45,6 +45,7 @@ concepts | link
  stacks and queues |[stacks and queues](https://obada-gh.github.io/reading-notes/401/stack)
  numPy |[numPy](https://obada-gh.github.io/reading-notes/401/numpy)
   pandas |[pandas](https://obada-gh.github.io/reading-notes/401/pandas)
+   linear |[linear](https://obada-gh.github.io/reading-notes/401/linear)
 
 
 
