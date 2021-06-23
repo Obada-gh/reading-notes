@@ -47,6 +47,7 @@ concepts | link
    pandas |[pandas](https://obada-gh.github.io/reading-notes/401/pandas)
    linear |[linear](https://obada-gh.github.io/reading-notes/401/linear)
    matplotlib |[matplotlib](https://obada-gh.github.io/reading-notes/401/matplotlib)
+   trees |[trees](https://obada-gh.github.io/reading-notes/401/trees)
 
 
 
