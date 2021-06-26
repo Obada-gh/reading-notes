@@ -1,5 +1,7 @@
 # Data Science and Machine Learning :
 
+![view](https://www.simplilearn.com/ice9/free_resources_article_thumb/What-skills-make-a-data-scientist.jpg)
+
 At its core, data science is a field of study that aims to use a scientific approach to extract meaning and insights from data. Dr. Thomas Miller of Northwestern University describes data science as “a combination of information technology, modeling, and business management”. Universities have acknowledged the importance of the data science field and have created online data science graduate programs.
 
 Machine learning, on the other hand, refers to a group of techniques used by data scientists that allow computers to learn from data. These techniques produce results that perform well without programming explicit rules.
@@ -23,11 +25,11 @@ And we will learn how to make functions that are able to predict the outcome bas
 Data Set
 In the mind of a computer, a data set is any collection of data. It can be anything from an array to a complete database.
 
-Example of an array:
+## Example of an array:
 
 [99,86,87,88,111,86,103,87,94,78,77,85,86]
 
-for more [datascience](https://elitedatascience.com/primer) :
+## for more [datascience](https://elitedatascience.com/primer) :
 
 This data science primer will cover exploratory analysis, data cleaning, feature engineering, algorithm selection, and model training. As you can see, those chunks make up 80% of the pie. They also set the foundation for more advanced techniques.
 
