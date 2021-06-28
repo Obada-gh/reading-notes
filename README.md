@@ -50,6 +50,8 @@ concepts | link
    trees |[trees](https://obada-gh.github.io/reading-notes/401/trees)
    DataSciencePrimer |[DataSciencePrimer](https://obada-gh.github.io/reading-notes/401/DataSciencePrimer)
    WebScraping |[WebScraping](https://obada-gh.github.io/reading-notes/401/WebScraping)
+   WebScraping |[WebScraping](https://obada-gh.github.io/reading-notes/401/Hacking)
+
 
 
 
