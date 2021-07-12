@@ -54,6 +54,7 @@ concepts | link
    regx |[regx](https://obada-gh.github.io/reading-notes/401/regx)
    django |[django](https://obada-gh.github.io/reading-notes/401/django)
    djangoModels |[djangoModels](https://obada-gh.github.io/reading-notes/401/djangoModels)
+   forms |[forms](https://obada-gh.github.io/reading-notes/401/forms)
 
 
 
