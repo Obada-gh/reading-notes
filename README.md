@@ -58,7 +58,8 @@ concepts | link
    djangox |[djangox](https://obada-gh.github.io/reading-notes/401/djangox)
    hash |[hash](https://obada-gh.github.io/reading-notes/401/hash)
    docker |[docker](https://obada-gh.github.io/reading-notes/401/docker)
-   Permissions |[Permissions](https://obada-gh.github.io/reading-notes/401/Permissions)
+   Permissions |[Permissionsl](https://obada-gh.github.io/reading-notes/401/Permissions)
+
    
 
 
