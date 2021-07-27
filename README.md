@@ -59,6 +59,8 @@ concepts | link
    hash |[hash](https://obada-gh.github.io/reading-notes/401/hash)
    docker |[docker](https://obada-gh.github.io/reading-notes/401/docker)
    Permissions |[Permissionsl](https://obada-gh.github.io/reading-notes/401/Permissions)
+   djangoweb |[djangowebl](https://obada-gh.github.io/reading-notes/401/djangoweb)
+   
 
    
 
