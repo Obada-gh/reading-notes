@@ -60,7 +60,7 @@ concepts | link
    docker |[docker](https://obada-gh.github.io/reading-notes/401/docker)
    Permissions |[Permissionsl](https://obada-gh.github.io/reading-notes/401/Permissions)
    djangoweb |[djangowebl](https://obada-gh.github.io/reading-notes/401/djangoweb)
-   Django Settings |[Django Settingsl](https://obada-gh.github.io/reading-notes/401/Django Settings)
+   Django Settings |[Django Settingsl](https://obada-gh.github.io/reading-notes/401/DjangoSettings)
    
 
    
