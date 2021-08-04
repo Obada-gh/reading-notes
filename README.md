@@ -65,6 +65,7 @@ WhiteboardAdvice |[WhiteboardAdvicel](https://obada-gh.github.io/reading-notes/4
 Graphs |[Graphsl](https://obada-gh.github.io/reading-notes/401/Graphs)
 react |[reactl](https://obada-gh.github.io/reading-notes/401/react)
 react2 |[react2l](https://obada-gh.github.io/reading-notes/401/react2)
+nodejs |[nodejsl](https://obada-gh.github.io/reading-notes/401/nodejs)
    
 
    
