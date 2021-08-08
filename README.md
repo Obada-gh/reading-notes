@@ -67,6 +67,7 @@ react |[reactl](https://obada-gh.github.io/reading-notes/401/react)
 react2 |[react2l](https://obada-gh.github.io/reading-notes/401/react2)
 nodejs |[nodejsl](https://obada-gh.github.io/reading-notes/401/nodejs)
 DynamicRoutes |[DynamicRoutes](https://obada-gh.github.io/reading-notes/401/DynamicRoutes)
+python |[python](https://obada-gh.github.io/reading-notes/401/python)
    
 
    
